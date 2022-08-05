@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reto">
+        <item>Wait for money</item>
+        <item>Everything will be fine</item>
+        <item>Be careful</item>
+        <item>Wait for love</item>
+        <item>You will lose money</item>
+        <item>New acquaintance</item>
+    </string-array>
+
+</resources>
